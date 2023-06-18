@@ -6,7 +6,7 @@ Code for Kansasfest 2023: FujiApple Tic Tac Dough
 - INTBSYS_FUN.po has Integer Basic programs that now run under Prodos.
 - TICTACDRAGON.dsk has the lo-res art entry from Kansasfest 2022 with an update to play the music with all 5 timbres.
 
-Special thanks to inexorabletrash for adding the Programmer's Aid Music routines to INTBASIC.SYSTEM
+Special thanks to inexorabletash for adding the Programmer's Aid Music routines to INTBASIC.SYSTEM
 - https://github.com/a2stuff/intbasic/issues/12
 - https://www.callapple.org/vintage-apple-computers/apple-ii/intbasic-system-0-9-for-the-apple-ii-released/
 
