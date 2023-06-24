@@ -6,6 +6,10 @@ Code for Kansasfest 2023: FujiApple Tic Tac Dough
 - INTBSYS_FUN.po has Integer Basic programs that now run under Prodos.
 - TICTACDRAGON.dsk has the lo-res art entry from Kansasfest 2022 with an update to play the music with all 5 timbres.
 
+To generate questions for the game, enter the following prompt into ChatGPT3:
+
+Please generate 10 different game boards each consisting of 9 trivia questions in 9 unique categories that could be used in a game of Tic Tac Dough in JSON format.  The outermost objects should be named "game".  The 9 trivia questions for each game should have field names: category, question, answer
+
 Special thanks to inexorabletash for adding the Programmer's Aid Music routines to INTBASIC.SYSTEM
 - https://github.com/a2stuff/intbasic/issues/12
 - https://www.callapple.org/vintage-apple-computers/apple-ii/intbasic-system-0-9-for-the-apple-ii-released/
