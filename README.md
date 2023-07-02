@@ -26,3 +26,6 @@ Youtube Playlist for this project:
 Youtube Playlist of videos about #Fujinet:
 - https://www.youtube.com/watch?v=58YSpwc9OZ0&list=PLOW4_Hp8_911MfGisFSE2-PmqPhco1X1q
 
+Test Plan (Google Spreadsheet)
+- https://docs.google.com/spreadsheets/d/1buVD_l5Ehudc-TbOcdZdjQRgrE3htOXg/edit?usp=sharing&ouid=117510875400639877571&rtpof=true&sd=true
+  
