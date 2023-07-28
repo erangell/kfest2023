@@ -32,7 +32,7 @@ Test Plan (Google Spreadsheet)
 
 Additional links to work by Bob Bishop:
 - Bob Bishop talking about his work on Tic Tac Dough: https://www.youtube.com/watch?v=FlsHGmijFP0&t=2136s
-- https://www.apple2history.org/spotlight/bobbishop/
+- Apple 2 History writeup about Bob: https://www.apple2history.org/spotlight/bobbishop/
 - Em Maginnis interviewed Bob Bishop in 2009: https://archive.org/details/BobBishopInterview-2009-04-22
 - Bob Bishop's radio show: https://archive.org/details/the-thinking-machine-bishop-woz-interview
 - KSCO Santa Cruz obituary for Bob: http://www.ksco.com/bob-bishop-mr-logic-obit-09-29-14-16-00-s-s/
